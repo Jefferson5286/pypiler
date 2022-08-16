@@ -11,7 +11,7 @@ code normally.
 
 ## how to install
 
-[Download](#https://github.com/Jefferson5286/pypiler/releases/tag/pypiler)
+<a href="https://github.com/Jefferson5286/pypiler/releases/tag/pypiler">Download</a>
 
 To install it, just download the rar file and extract it along with your project file, all its dependencies are already included in it, which
 would be the clear compiler (mingw64) and python includes and
